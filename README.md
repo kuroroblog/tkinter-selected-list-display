@@ -1,0 +1,2 @@
+# tkinter-selected-list-display
+filedialogを使ってcsvファイルを選択する。選択されたcsvファイル内容を確認できるように、いい感じにlistbox Widgetを利用する。
