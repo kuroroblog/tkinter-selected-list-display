@@ -8,5 +8,5 @@ filedialogを使ってcsvファイルを選択する。選択されたcsvファ�
 4. ダウンロードされたzipファイルをデスクトップへ移動
 5. zipファイルをダブルクリック
 6. ターミナルを開く。
-7. ターミナルを活用して、zipを展開して生成されたフォルダへ移動する。($ cd Desktop/tkinter-selected-list-display-master)
+7. ターミナルを活用して、zipを展開して生成されたフォルダへ移動する。(`$ cd Desktop/tkinter-selected-list-display-master`)
 8. `$ python main.py`を実行する。
