@@ -47,7 +47,6 @@ class Application(tk.Frame):
                     # tk.END : 末尾
                     self.listBox.insert(tk.END, headerList[i])
 
-                next(reader)
                 for rowList in reader:
                     for j in range(0, len(rowList)):
                         self.listBoxData[j]['list'].append(rowList[j])
